@@ -14,3 +14,6 @@ Autoencoder (Anomaly Detection Stage):  87.5%
 
 Object Detection (retrained MobileNet): 93.0%
 
+## Board
+
+<img width="820" alt="Screen Shot 2021-10-08 at 7 39 19 PM" src="https://user-images.githubusercontent.com/17458166/136641163-f4acdc51-bf3b-4f87-967c-f35340e87102.png">
